@@ -1,0 +1,14 @@
+{
+  "name": "aswayz-startup-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for ASWAYZ Community startup embed and roles system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "مولاي",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
